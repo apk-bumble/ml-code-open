@@ -1,3 +1,8 @@
+%  1.	2022ac05367@wilp.bits-pilani.ac.in – Anand PremKumar P
+%  2.	2022ac05474@wilp.bits-pilani.ac.in – Sasikumar R
+%  3.	2022wb86612@wilp.bits-pilani.ac.in - Manish Kumar
+%  4.	2022ac05068@wilp.bits-pilani.ac.in - Akash Sarkar
+
 % Prolog file created from the CrayoDataset.csv dataset
 :- dynamic patient/7.
 
